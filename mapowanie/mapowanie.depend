@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1580157964 source:c:\users\hp\desktop\rek\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<list>
+	<vector>
+	<algorithm>
+	<time.h>
+
+1609612239 source:d:\moje\moje pliki\studia\3 sem\algorytmy kombinatoryczne w bioinformatyce lab\projekt 4\rek\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<list>
+	<vector>
+	<algorithm>
+	<time.h>
+
